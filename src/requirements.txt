@@ -1,0 +1,12 @@
+dash==2.9.2
+dash_bootstrap_components==1.4.1
+matplotlib==3.7.1
+missingno==0.5.2
+numpy==1.24.2
+pandas==1.5.3
+plotly==5.14.0
+requests==2.28.2
+seaborn==0.12.2
+gunicorn
+setuptools==65.6.3
+dash-tools
